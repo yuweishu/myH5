@@ -1,4 +1,4 @@
-##哈哈哈哈哈
+##哈哈哈哈哈太好了
 
 You can use the [editor on GitHub](https://github.com/yuweishu/myH5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
